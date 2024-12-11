@@ -1,0 +1,6 @@
+*.keras filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+results_no_aug/unet_segmentation_no_aug.pth filter=lfs diff=lfs merge=lfs -text
+results_with_aug/unet_segmentation_with_aug.pth filter=lfs diff=lfs merge=lfs -text
+unet_segmentation.pth filter=lfs diff=lfs merge=lfs -text

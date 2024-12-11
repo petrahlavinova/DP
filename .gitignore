@@ -1,0 +1,11 @@
+env/
+Include/
+Lib/
+masks/
+mateuszbuda-brain-segmentation-pytorch-d45f890/
+Pulchra-cropped/
+Scripts/
+venv/
+scikit-image-0.24.0-py312h0158946_0.tar.bz2
+pyvenv.cfg
+validation_results/
